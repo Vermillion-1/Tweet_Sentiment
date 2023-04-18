@@ -1,0 +1,14 @@
+pandas
+numpy
+wordcloud
+nltk
+re
+sklearn
+imblearn
+tensorflow
+scipy
+xgboost
+matplotlib
+seaborn
+warnings
+joblib
